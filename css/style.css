@@ -105,15 +105,13 @@ header{
 	overflow: hidden;
 }
 .bl_item{
+	margin-top: 70px;
 	float: left ;
 	width: 47%;
 	box-sizing: border-box;
 }
 .bl_item:nth-child(even){
 	margin-left: 6%;
-}
-.bl_item:nth-child(2){
-	margin-bottom: 80px;
 }
 .bl_img{
 	margin-bottom: 20px;
